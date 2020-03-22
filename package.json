@@ -7,6 +7,10 @@
     "server",
     "frontend"
   ],
+  "engines": {
+    "node": "12.13.*",
+    "yarn": "1.19.*"
+  },
   "scripts": {
     "frontend": "cd frontend && yarn start",
     "server": "cd server && yarn start",
