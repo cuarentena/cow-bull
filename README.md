@@ -15,7 +15,6 @@ The first one to reveal the other's secret number in the least number of guesses
 Go to https://cowbull.yummta.com/
 
 ## Contributing
-> This is the frontend of the application, if you want to contribute in the backend you can go to [cow-bull-server](https://github.com/diegotc86/cow-bull-server) repo
 
 Pull requests are welcome. Please open an issue first to discuss what you would like to change. If it is approved you can fork the repo and start working on it.
 
@@ -25,8 +24,8 @@ Pull requests are welcome. Please open an issue first to discuss what you would 
 yarn install
 ```
 
-### Development server and watching
+### Run server and frontend
 
 ```bash
-yarn start
+yarn dev
 ```
