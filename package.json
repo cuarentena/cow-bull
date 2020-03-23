@@ -8,8 +8,8 @@
     "frontend"
   ],
   "engines": {
-    "node": "12.13.*",
-    "yarn": "1.19.*"
+    "node": "^12.13.*",
+    "yarn": "^1.19.*"
   },
   "scripts": {
     "frontend": "cd frontend && yarn start",
